@@ -62,7 +62,7 @@ This portfolio is not just a resume—it's an experience. Built with **React** a
 
 - **LinkedIn**: [linkedin.com/in/govind-sharma-046827278](https://www.linkedin.com/in/govind-sharma-046827278)
 - **GitHub**: [@W-govind](https://github.com/W-govind)
-- **Portfolio**: [Live Link (Add your hosting link here)]
+- **Portfolio**: https://netflix-style-portfolio-mauve.vercel.app/
 
 ---
 
