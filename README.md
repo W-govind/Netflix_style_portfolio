@@ -87,7 +87,10 @@ This portfolio is not just a resume—it's an experience. Built with **React** a
 
 ## 📸 Screenshots
 
-*(Add your own screenshots here to wow recruiters!)*
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/f30cbd6f-ccc1-439d-be0f-9892303f2fbf" />
+<img width="1889" height="870" alt="image" src="https://github.com/user-attachments/assets/44f1effc-4e29-4337-bb1b-afaf53b8eba2" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/f3849aa1-1533-423a-bf92-caae98c098ac" />
+
 
 <p align="center">
   <img src="src/images/govind_logo.png" width="300" alt="Logo" />
